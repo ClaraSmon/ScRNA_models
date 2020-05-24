@@ -69,7 +69,7 @@ While previous studies have aimed to model the interaction between structures in
 | Mary Chung        	| mary-chung 	| Visualization/Analysis 	|
   
 ### Integrated management Team :
-​
+
 |       Name       	|    GitHub ID    	|       Work Done       	|
 |:----------------:	|:---------------:	|:---------------------:	|
 | Salini Konikkat  	|        -        	| Integrated management 	|
