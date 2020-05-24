@@ -20,9 +20,9 @@ While previous studies have aimed to model the interaction between structures in
 
 ## Useful Resources 
 
-1. Non-canonical SARS CoV-2 sgRNAs from [UCSC browser deposit](http://genome.ucsc.edu/cgi-bin/hgTables) by Kim et al., 2020 
-2. Human 3’UTR [UTRdb database](http://utrdb.ba.itb.cnr.it/) 
-3. Human [EnhancerAtlas database](http://www.enhanceratlas.org/)
+1. Non-canonical SARS-CoV-2 sgRNAs from [UCSC browser deposit](http://genome.ucsc.edu/cgi-bin/hgTables) by Kim et al., 2020 
+2. Human 3’UTR database - [UTRdb](http://utrdb.ba.itb.cnr.it/) 
+3. Human enhancer database - [EnhancerAtlas](http://www.enhanceratlas.org/)
 4. [CD-HIT](http://weizhongli-lab.org/cd-hit/) (Limin et al., 2012)
 5. [ViennaRNA](https://www.tbi.univie.ac.at/RNA/) (Lorenz et al., 2011)
 6. [Cytoscape](https://js.cytoscape.org/)
