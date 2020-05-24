@@ -75,7 +75,7 @@ While previous studies have aimed to model the interaction between structures in
 |:----------------:	|:---------------:	|:---------------------:	|
 | Salini Konikkat  	|        -        	| Integrated management 	|
 | Taylor Falk      	| taytayp         	| Integrated management 	|
-| Clara Smoniewski 	| ClaraSmon       	| Integrated management 	|
+| Clara Smoniewski 	| c-smon          	| Integrated management 	|
 | Thomas Ng        	| ngthomas        	| Integrated management 	|
 | Varun Kotipalli  	| varun-kotipalli 	| Integrated management 	|
 
