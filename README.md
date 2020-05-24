@@ -15,7 +15,7 @@ While previous studies have aimed to model the interaction between structures in
 ## *Objectives*
 1. Integration of the latest SARS-CoV-2 transcriptome and RNA secondary structure data to predict potential pathogen and host miRNA:mRNA interactions;
 2. Visualization of predicted miRNA structures & miRNA:mRNA network interactions;
-3. Production of ViRBase-compatible network dataset; and 
+3. Production of [ViRBase](http://www.rna-society.org/virbase/)-compatible network dataset; and 
 4. Report the findings of our work in an open access preprint.
 
 ## Useful Resources 
