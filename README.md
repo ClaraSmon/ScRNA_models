@@ -49,9 +49,8 @@ While previous studies have aimed to model the interaction between structures in
 |:------------------:	|:----------------:	|:---------------------:	|
 | Amber Paulson      	| damselflywingz    | Team Leaad            	|
  
-​
 ### Pipeline Construction Team: 
-​
+
 |        Name        	|     GitHub ID    	|       Work Done       	|
 |:------------------:	|:----------------:	|:---------------------:	|
 | Teresa Tavella     	|         -        	| Pipeline Construction 	|
@@ -59,9 +58,9 @@ While previous studies have aimed to model the interaction between structures in
 | Anna Valyaeva      	| kirushka         	| Pipeline Construction 	|
 | Sanjana Bhatnagar  	| sanjanabhatnagar 	| Pipeline Construction 	|
 | Christina Akirtava 	| bio2data         	| Pipeline Construction 	|
-  
+ 
  ### Visualization/Analysis Team:
-​
+
 |        Name       	| GitHub ID  	|        Work Done       	|
 |:-----------------:	|------------	|:----------------------:	|
 | Jason Laird       	| jlaird-bio 	| Visualization/Analysis 	|
