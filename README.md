@@ -64,7 +64,7 @@ While previous studies have aimed to model the interaction between structures in
 |        Name       	| GitHub ID  	|        Work Done       	|
 |:-----------------:	|------------	|:----------------------:	|
 | Jason Laird       	| jlaird-bio 	| Visualization/Analysis 	|
-| Jaspreet Singh    	|      -     	| Visualization/Analysis 	|
+| Jaspreet Singh    	| Jaspreet990 | Visualization/Analysis 	|
 | Fatemeh Kiannejad 	| kfate      	| Visualization/Analysis 	|
 | Mary Chung        	| mary-chung 	| Visualization/Analysis 	|
   
@@ -92,5 +92,3 @@ The team does not have capacity to provide on-going support for Mod-RNA, and thi
 6. Rangan R, Zheludev IN, Das R.  RNA genome conservation and secondary structure in SARS-CoV-2 and SARS-related viruses. bioRXiv. [doi:10.1101/2020.03.27.012906](https://doi.org/10.1101/2020.03.27.012906)
 7. Wu K, Zou J, Chang HY. (2020) RNA-GPS Predicts SARS-CoV-2 RNA Localization to Host Mitochondria and Nucleolus. Bioinformatics. [http://biorxiv.org/lookup/doi/10.1101/2020.04.28.065201](http://biorxiv.org/lookup/doi/10.1101/2020.04.28.065201)
 8. Liu Z, Wang J, Xu Y, Guo M, Mi K, Xu R, Pei Y, Zhang Q, Luan X, Hu Z, Liu X. (2020) Implications of the virus-encoded miRNA and host miRNA in the pathogenicity of SARS-CoV-2. arXiv:200404874 q-bio. [http://arxiv.org/abs/2004.04874]
-
-
